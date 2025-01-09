@@ -62,7 +62,7 @@ pip install torch torchvision tqdm matplotlib
 Clone the repository and upload the files to your Google Colab environment:
 
 ```bash
-git clone https://github.com/your-username/vision-transformer-comparison.git
+git clone https://github.com/m-peker/Vision-Transformer-vs-Compact-Convolutional-Transformer.git
 cd vision-transformer-comparison
 ```
 ---
